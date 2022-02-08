@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.parent{
+    height: 600px;
+    width: 600px;
+    background-color: rgb(204, 181, 164);
+   
+}
+.Bounce{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(100, 96, 96);
+    position: relative;
+    left: 50px;
+    right: 50px;
+    top: 50px;
+}
+
+.Ball{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    border-radius: 100%;
+}
+.Butt1{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+.Butt2{
+    position: relative;
+    left: 370px;
+    top: 100px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+.Bal{
+    position: relative;
+    left: 170px;
+    top: 70px;
+    
+}
+.Bal2{
+    position: relative;
+    left: 290px;
+    top: 50px;
+}
+.speed{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
